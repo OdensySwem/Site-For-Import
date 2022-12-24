@@ -1,6 +1,8 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
 tmp/
 index.html_old
 img/NeuroStartUp.png_backup
 img/Thumbs.db
-
-
+.DS_Store
